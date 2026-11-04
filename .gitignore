@@ -1,0 +1,5 @@
+node_modules/
+**/unified-data/
+**/__pycache__/
+*.sqlite*
+.env*
